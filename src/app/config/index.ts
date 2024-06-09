@@ -1,4 +1,3 @@
-import exp from 'constants'
 import dotenv from 'dotenv'
 import path from 'path'
 
